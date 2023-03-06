@@ -1,4 +1,17 @@
 img{
-    width: 500px;
-    height: 300px;
+    object-fit: cover;
+}
+
+.img-1, .img-3{
+   max-width: 100%;
+   margin-top: 5px;
+   margin-bottom: 10px;
+}
+
+h2, h3{
+    font-size: 20px;
+}
+
+.container{
+    max-width: 700px
 }
